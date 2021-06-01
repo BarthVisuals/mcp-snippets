@@ -1,0 +1,6 @@
+// Working in 1.12
+// Go to CapeUtils class (you need to have optifine in src) and use this code:
+
+ResourceLocation location;
+location = new ResourceLocation("/path/to/cape/png");
+p_downloadCape_0_.setLocationOfCape(location);
