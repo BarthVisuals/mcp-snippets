@@ -1,1 +1,1 @@
-# mcp-snippets
+Discord: barthvisuals#2137
